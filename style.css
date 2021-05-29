@@ -127,20 +127,7 @@ font-size: 10px;
   margin: 30px;
   margin-top: 90px;
   border-radius: 10px;
-  box-shadow: 0px 0px 30px rgba(0, 0, 0, 3)
-  
-}
-
-.owner {
-  text-align: center;
-  color: white;
-  background-color: grey;
-  height: 30px;
-  width: 100%;
-  font-size: 5px;
-  justify-content: end;
-  border-radius: 10px;
-  margin-top: 5px;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 3);
 }
 
 
@@ -259,7 +246,14 @@ font-size: 10px;
   margin-top: 10px;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 3)
 }
-
+.about {
+  text-align: center;
+  background: black;
+  color: red;
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 3)
+}
 
 
 
